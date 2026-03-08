@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "冬物語",
+  "base_artist": "三代目 J SOUL BROTHERS from EXILE TRIBE",
+  "createdAt": "2026-03-08T10:01:43.274048Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "冬物語",
+      "artist": "さよならポニーテール",
+      "has_synced": false,
+      "path": "select/01_冬物語_さよならポニーテール.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "冬物語",
+      "artist": "Sayonara Ponytail",
+      "has_synced": false,
+      "path": "select/02_冬物語_Sayonara_Ponytail.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "冬物語",
+      "artist": "三代目 J SOUL BROTHERS from EXILE TRIBE",
+      "has_synced": false,
+      "path": "select/03_冬物語_三代目_J_SOUL_BROTHERS_from_EXILE_TRIBE.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "冬物語",
+      "artist": "J SOUL BROTHERS III from EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/04_冬物語_J_SOUL_BROTHERS_III_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Winter's Tale～冬物語～",
+      "artist": "Hiroshi Takano",
+      "has_synced": false,
+      "path": "select/05_Winter's_Tale~冬物語~_Hiroshi_Takano.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "冬物語",
+      "artist": "J SOUL BROTHERS III",
+      "has_synced": true,
+      "path": "select/06_冬物語_J_SOUL_BROTHERS_III.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "冬物語",
+      "artist": "ゴスペラーズ",
+      "has_synced": true,
+      "path": "select/07_冬物語_ゴスペラーズ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "冬物語",
+      "artist": "三代目 J Soul Brothers from EXILE TRIBE",
+      "has_synced": false,
+      "path": "select/pl_01_冬物語_三代目_J_Soul_Brothers_from_EXILE_TRIBE.txt"
+    }
+  ]
+}
